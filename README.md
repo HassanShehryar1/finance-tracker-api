@@ -13,7 +13,7 @@ Built with **FastAPI (Python)** | Tested with **Postman + Newman** | CI/CD via *
 | Backend | Python + FastAPI |
 | Testing | Postman (manual) + Newman (automated) |
 | CI/CD Pipeline | GitHub Actions |
-| Data Storage | In-memory (no DB required) |
+| Data Storage | In-memory |
 
 ---
 
